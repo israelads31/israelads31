@@ -1,4 +1,4 @@
-# Hey guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="alt text" width="50px" />
+# Hey guys! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="alt text" width="40px" />
 
 - 💻 I currently work as IT for a pre-university course.
 - 👨🏼‍💻 I'm a full stack web developer.
